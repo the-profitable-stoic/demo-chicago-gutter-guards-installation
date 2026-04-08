@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-chicago-gutter-guards-installation.dream-surge.com/sitemap-index.xml

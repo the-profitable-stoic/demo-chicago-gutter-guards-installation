@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Chicago Gutter Guards Installation",
+    "phone": "+17737883652",
+    "category": "gutter company",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Chicago's Toughest Gutters. Period.",
+      "heroSubline": "We install and maintain gutter systems built to withstand Chicago's brutal winters and unpredictable weather. Get a free quote today.",
+      "aboutTitle": "Built Chicago Tough, Inside and Out",
+      "aboutText": [
+        "Chicago Gutter Guards Installation started with a simple mission: to provide reliable, long-lasting gutter solutions for our neighbors. We saw too many homes damaged by faulty gutters and ice dams, especially in older neighborhoods like Lincoln Park and Logan Square. We knew we could do better.",
+        "We're not just installers; we're problem solvers. We assess your home's specific needs, considering factors like roof pitch, tree coverage, and neighborhood drainage. Our team uses only the highest-quality materials and proven techniques to ensure your gutters can handle anything Chicago throws their way.",
+        "We believe in giving back to the community that supports us. We actively participate in local initiatives, supporting neighborhood clean-up efforts and donating to organizations that help Chicago families thrive. When you choose us, you're choosing a company that cares about Chicago."
+      ],
+      "valueProps": [
+        {
+          "title": "Unmatched Durability",
+          "description": "We use heavy-gauge aluminum and steel to build gutter systems that withstand Chicago's harsh winters."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation for optimal performance and longevity."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We tailor our approach to your home's specific needs, considering roof type, landscaping, and drainage patterns."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We stand behind our work with comprehensive warranties and prompt, responsive customer support."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation quote for gutter installation or repair."
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation for homes throughout the Chicago area.",
+        "description": "Protecting your Chicago home from water damage starts with a properly installed gutter system. We specialize in seamless aluminum and steel gutters, custom-fit to your home's precise dimensions. Our experienced installers understand the unique challenges of Chicago's climate, from heavy snowfall to rapid freeze-thaw cycles. We'll assess your roofline, drainage patterns, and landscaping to recommend the best gutter solution for your needs. We handle everything from removing old gutters to ensuring proper downspout placement. We work on everything from classic 1890s bungalows in neighborhoods like Pilsen to modern high-rises downtown. \n\nOur installation process includes a thorough inspection to identify potential problem areas, such as rotting fascia boards or inadequate roof flashing. We address these issues proactively to ensure your new gutters perform flawlessly for years to come. We use only the highest-quality materials and proven installation techniques to guarantee a watertight seal and maximum durability. We can also recommend and install gutter guards to prevent clogs and reduce maintenance.",
+        "process": [
+          "Step 1: Site Assessment",
+          "Step 2: Custom Gutter Design",
+          "Step 3: Professional Installation",
+          "Step 4: Quality Inspection"
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation",
+          "Protects siding and landscaping",
+          "Reduces the risk of ice dams",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What type of gutters do you recommend for Chicago homes?",
+            "answer": "We typically recommend seamless aluminum or steel gutters for their durability and resistance to corrosion. Steel is particularly well-suited for areas prone to heavy snow and ice."
+          },
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "The installation time depends on the size and complexity of your home, but most projects can be completed in one to two days."
+          },
+          {
+            "question": "Do you offer warranties on your gutter installations?",
+            "answer": "Yes, we offer comprehensive warranties on both materials and workmanship. We stand behind the quality of our installations."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fast, reliable gutter repair services throughout Chicago and surrounding suburbs.",
+        "description": "Don't let damaged gutters compromise your home's protection. We provide comprehensive gutter repair services to address leaks, sagging, clogs, and other common issues. Whether you live in a vintage greystone in Lakeview or a modern condo in River North, we have the expertise to restore your gutters to optimal condition. We understand the importance of prompt repairs, especially during Chicago's unpredictable weather patterns. A small leak can quickly escalate into a major problem, leading to costly water damage.\n\nOur repair services include patching holes, realigning sagging sections, replacing damaged downspouts, and clearing stubborn clogs. We also offer preventative maintenance services, such as gutter cleaning and inspection, to help you avoid future problems. We use only high-quality materials and proven repair techniques to ensure lasting results. We're familiar with the different types of gutter systems found in Chicago homes, from traditional half-round gutters to modern K-style gutters.",
+        "process": [
+          "Step 1: Thorough Inspection",
+          "Step 2: Detailed Repair Plan",
+          "Step 3: Expert Repairs",
+          "Step 4: Performance Testing"
+        ],
+        "benefits": [
+          "Prevents further water damage",
+          "Extends the life of your gutters",
+          "Saves you money on costly repairs",
+          "Maintains your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Common signs include leaks, sagging, overflowing, and visible damage. If you notice any of these issues, it's important to schedule a professional inspection."
+          },
+          {
+            "question": "Can you repair gutters that are severely damaged?",
+            "answer": "In some cases, severely damaged gutters may need to be replaced. However, we'll always explore all repair options before recommending a full replacement."
+          },
+          {
+            "question": "How often should I have my gutters inspected?",
+            "answer": "We recommend having your gutters inspected at least once a year, ideally in the fall after the leaves have fallen."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning services to keep your gutters flowing freely.",
+        "description": "Clogged gutters can cause a host of problems, from water damage to pest infestations. We offer thorough gutter cleaning services to remove leaves, debris, and other obstructions, ensuring your gutters function properly year-round. Chicago's tree-lined streets, while beautiful, can wreak havoc on gutter systems. Our experienced technicians use specialized tools and techniques to safely and effectively clean your gutters, without damaging your roof or landscaping.\n\nWe'll remove all debris from your gutters and downspouts, ensuring proper water flow. We also inspect your gutters for any signs of damage, such as leaks or sagging sections. If we identify any problems, we'll provide you with a detailed repair estimate. Regular gutter cleaning is essential for maintaining the health and integrity of your home. Don't wait until you have a major problem – schedule your gutter cleaning today.",
+        "process": [
+          "Step 1: Debris Removal",
+          "Step 2: Downspout Clearing",
+          "Step 3: Gutter Inspection",
+          "Step 4: Site Cleanup"
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Reduces the risk of pest infestations",
+          "Extends the life of your gutters",
+          "Maintains your home's value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. Homes with heavy tree coverage may require more frequent cleaning."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "While it's possible to clean your gutters yourself, it can be dangerous and time-consuming. Our professional technicians have the experience and equipment to do the job safely and efficiently."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "Clogged gutters can lead to water damage, pest infestations, and other costly problems."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guards",
+        "name": "Gutter Guards Installation",
+        "shortDescription": "Install gutter guards and stop cleaning your gutters forever!",
+        "description": "Tired of cleaning your gutters? We can install high-quality gutter guards to prevent leaves, debris, and other obstructions from entering your gutters. Our gutter guards are designed to provide long-lasting protection, reducing the need for frequent cleaning and maintenance. We offer a variety of gutter guard options to suit your specific needs and budget, from micro-mesh screens to surface tension systems. We'll assess your home's unique characteristics, such as roof pitch and tree coverage, to recommend the best gutter guard solution for you.\n\nGutter guards can save you time and money by eliminating the need for regular gutter cleaning. They also help prevent water damage by ensuring proper water flow. Our experienced installers will ensure your gutter guards are properly installed and securely attached to your gutters. We stand behind our work with comprehensive warranties and prompt customer support. Protect your home and your time with our reliable gutter guard installation services.",
+        "process": [
+          "Step 1: Gutter Inspection",
+          "Step 2: Gutter Cleaning (if needed)",
+          "Step 3: Gutter Guard Selection",
+          "Step 4: Professional Installation"
+        ],
+        "benefits": [
+          "Eliminates the need for gutter cleaning",
+          "Prevents water damage",
+          "Reduces the risk of ice dams",
+          "Extends the life of your gutters"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of gutter guards?",
+            "answer": "Gutter guards prevent leaves, debris, and other obstructions from entering your gutters, reducing the need for cleaning and preventing water damage."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards varies depending on the type of gutter guard and the size of your home. We offer free estimates to help you determine the best option for your budget."
+          },
+          {
+            "question": "Do gutter guards require any maintenance?",
+            "answer": "While gutter guards significantly reduce the need for cleaning, they may require occasional maintenance, such as brushing off debris that accumulates on the surface."
+          }
+        ]
+      },
+      {
+        "slug": "ice-dam-prevention",
+        "name": "Ice Dam Prevention",
+        "shortDescription": "Protect your Chicago home from ice dams with our expert prevention services.",
+        "description": "Chicago winters are notorious for ice dams, which can cause significant damage to your roof, gutters, and interior walls. We offer a range of ice dam prevention services to help you protect your home from these costly problems. Our experienced technicians understand the science behind ice dam formation and can recommend the best solutions for your specific situation. We can install heating cables, improve attic insulation, and ensure proper roof ventilation to prevent ice dams from forming.\n\nWe'll assess your home's roof and attic to identify potential problem areas. We'll then develop a customized ice dam prevention plan that addresses your specific needs. Our goal is to keep your home safe and dry throughout the winter months. Don't wait until you have an ice dam – schedule your ice dam prevention services today.",
+        "process": [
+          "Step 1: Roof and Attic Inspection",
+          "Step 2: Insulation Assessment",
+          "Step 3: Ventilation Analysis",
+          "Step 4: Customized Prevention Plan"
+        ],
+        "benefits": [
+          "Prevents ice dam formation",
+          "Protects your roof and gutters",
+          "Reduces the risk of water damage",
+          "Saves you money on costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "What are ice dams?",
+            "answer": "Ice dams are ridges of ice that form at the edge of your roof, preventing melting snow from draining properly and causing water to back up under your shingles."
+          },
+          {
+            "question": "How can I prevent ice dams?",
+            "answer": "You can prevent ice dams by improving attic insulation, ensuring proper roof ventilation, and installing heating cables."
+          },
+          {
+            "question": "How much does ice dam prevention cost?",
+            "answer": "The cost of ice dam prevention varies depending on the specific services required. We offer free estimates to help you determine the best option for your budget."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia repair services.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, protecting your rafters and providing ventilation for your attic. Damaged soffit and fascia can lead to water damage, pest infestations, and reduced energy efficiency. We offer comprehensive soffit and fascia repair services to address these issues and keep your home in top condition. We understand the importance of maintaining these critical components, especially in Chicago's harsh climate.\n\nOur experienced technicians can repair or replace damaged soffit and fascia, using high-quality materials that are designed to withstand the elements. We'll also ensure proper ventilation to prevent moisture buildup in your attic. Protect your home and your investment with our reliable soffit and fascia repair services.",
+        "process": [
+          "Step 1: Soffit and Fascia Inspection",
+          "Step 2: Damage Assessment",
+          "Step 3: Repair or Replacement",
+          "Step 4: Quality Inspection"
+        ],
+        "benefits": [
+          "Protects your roof and rafters",
+          "Provides attic ventilation",
+          "Prevents water damage",
+          "Reduces pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, providing ventilation for your attic."
+          },
+          {
+            "question": "What is fascia?",
+            "answer": "Fascia is the vertical board that runs along the edge of your roof, providing a surface for attaching gutters."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Common signs include rotting wood, peeling paint, and visible damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Naperville",
+        "slug": "naperville-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is proud to offer our expert gutter services to the residents of Naperville, IL. We understand that Naperville's beautiful upscale family homes, largely built between the 1970s and 2000s, require reliable gutter systems to protect them from the elements. Our team has extensive experience installing and maintaining gutters on a wide variety of home styles found throughout Naperville.\n\nNaperville's harsh cold winters, characterized by heavy snow and ice, can place a significant strain on gutters. We specialize in gutter guard installation to prevent ice dams and clogs, ensuring that your gutters function properly year-round. We also offer gutter repair and replacement services to address any damage caused by the elements.",
+        "localContext": "We are committed to providing Naperville homeowners with the highest quality gutter solutions, ensuring their homes are protected from water damage and the elements. Our services are tailored to the specific needs of Naperville's residential landscape.",
+        "nearbyAreas": [
+          "Aurora",
+          "Downers Grove",
+          "Lisle"
+        ]
+      },
+      {
+        "city": "Aurora",
+        "slug": "aurora-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is dedicated to providing Aurora, IL residents with top-notch gutter services. We recognize the diverse housing styles in Aurora, ranging from homes built in the 1960s to those constructed in the 2000s, each requiring unique gutter solutions. Our team is equipped to handle any gutter challenge, ensuring the optimal performance of your home's water management system.\n\nAurora's harsh winter climate, with its heavy snow and ice, demands durable and reliable gutter systems. We offer a comprehensive range of services, including gutter guard installation to prevent clogs and ice dams, as well as gutter repair and replacement services to address any weather-related damage. We are committed to keeping Aurora homes protected from the elements.",
+        "localContext": "Understanding Aurora's unique blend of architectural styles and its susceptibility to harsh winter weather, we provide customized gutter solutions to meet the specific needs of each homeowner. Our goal is to ensure the longevity and protection of your Aurora home.",
+        "nearbyAreas": [
+          "Naperville",
+          "Oswego",
+          "Montgomery"
+        ]
+      },
+      {
+        "city": "Schaumburg",
+        "slug": "schaumburg-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is pleased to serve the residents of Schaumburg, IL, with our comprehensive gutter services. We are familiar with Schaumburg's suburban developments, primarily built in the 1970s and 80s, and understand the specific gutter needs of these homes. Our team is experienced in providing effective and reliable gutter solutions to protect your property.\n\nThe harsh cold winters with heavy snow and ice in Schaumburg necessitate robust gutter systems. We specialize in gutter guard installation to prevent ice dams and clogs, ensuring proper water drainage throughout the year. Additionally, we offer gutter repair and replacement services to address any damage caused by the elements, safeguarding your home from water damage.",
+        "localContext": "We are committed to providing Schaumburg homeowners with the highest quality gutter services, ensuring their homes are protected from water damage. Our services are tailored to the specific needs of Schaumburg's residential landscape.",
+        "nearbyAreas": [
+          "Palatine",
+          "Hoffman Estates",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Evanston",
+        "slug": "evanston-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is proud to offer our expert gutter services to the residents of Evanston, IL. We understand that Evanston's historic homes, many dating back to the 1890s-1930s, require specialized care and attention when it comes to gutter systems. Our team has experience working with the unique architectural styles found throughout Evanston.\n\nEvanston's proximity to Lake Michigan contributes to harsh cold winters with heavy snow and ice, placing a significant strain on gutters. We specialize in gutter guard installation to prevent ice dams and clogs, ensuring that your gutters function properly year-round. We also offer gutter repair and replacement services to address any damage while maintaining the historic integrity of your home.",
+        "localContext": "We are committed to providing Evanston homeowners with gutter solutions that are both functional and aesthetically pleasing, complementing the unique character of their historic homes. We understand the importance of preserving Evanston's architectural heritage.",
+        "nearbyAreas": [
+          "Skokie",
+          "Wilmette",
+          "Chicago"
+        ]
+      },
+      {
+        "city": "Arlington Heights",
+        "slug": "arlington-heights-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is dedicated to providing Arlington Heights, IL residents with top-notch gutter services. We recognize the prevalence of established ranch homes built in the 1950s-70s and understand the specific gutter needs of these properties. Our team is equipped to handle any gutter challenge, ensuring the optimal performance of your home's water management system.\n\nArlington Height's harsh winter climate, with its heavy snow and ice, demands durable and reliable gutter systems. We offer a comprehensive range of services, including gutter guard installation to prevent clogs and ice dams, as well as gutter repair and replacement services to address any weather-related damage. We are committed to keeping Arlington Heights homes protected from the elements.",
+        "localContext": "Understanding Arlington Heights' specific housing styles and its susceptibility to harsh winter weather, we provide customized gutter solutions to meet the specific needs of each homeowner. Our goal is to ensure the longevity and protection of your Arlington Heights home.",
+        "nearbyAreas": [
+          "Mount Prospect",
+          "Rolling Meadows",
+          "Palatine"
+        ]
+      },
+      {
+        "city": "Skokie",
+        "slug": "skokie-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is proud to extend our services to the village of Skokie, Illinois. We understand the diverse housing landscape of Skokie, with homes built across various decades, each presenting unique gutter challenges. Our team is equipped to provide tailored solutions to protect your property from water damage.\n\nSkokie experiences harsh cold winters with heavy snow and ice, which can significantly impact gutter systems. We specialize in installing gutter guards to prevent ice dams and clogs, ensuring proper water flow year-round. Additionally, we offer comprehensive repair and replacement services to address any damage caused by the elements, safeguarding your home from potential water damage.",
+        "localContext": "We are committed to delivering top-quality gutter solutions to Skokie homeowners, ensuring their homes are protected from the elements. Our services are customized to address the specific needs of Skokie's residential properties.",
+        "nearbyAreas": [
+          "Evanston",
+          "Niles",
+          "Morton Grove"
+        ]
+      },
+      {
+        "city": "Mount Prospect",
+        "slug": "mount-prospect-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is pleased to offer our professional gutter services to the residents of Mount Prospect, IL. Understanding the common housing styles in Mount Prospect, many of which were established in the mid-20th century, we tailor our services to meet the specific needs of these homes. Our team is experienced in providing reliable and effective gutter solutions.\n\nThe climate in Mount Prospect brings harsh cold winters with heavy snow and ice, making robust gutter systems essential. We focus on installing gutter guards to prevent ice dams and clogs, ensuring that water flows freely away from your home. We also provide gutter repair and replacement services to address any weather-related damage, protecting your home from water infiltration.",
+        "localContext": "We are dedicated to providing Mount Prospect homeowners with the best gutter solutions, ensuring their homes are protected from water damage. Our services are designed to address the specific challenges posed by Mount Prospect's climate and housing architecture.",
+        "nearbyAreas": [
+          "Arlington Heights",
+          "Des Plaines",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Des Plaines",
+        "slug": "des-plaines-il",
+        "state": "IL",
+        "content": "Chicago Gutter Guards Installation is committed to offering exceptional gutter services to the community of Des Plaines, IL. We recognize the diverse range of homes in Des Plaines and tailor our services accordingly to meet the unique needs of each property. Our team is well-equipped to handle all your gutter requirements.\n\nGiven Des Plaines' harsh cold winters with heavy snow and ice, dependable gutter systems are crucial. We specialize in the installation of high-quality gutter guards to prevent ice dams and clogs, ensuring efficient water drainage throughout the year. In addition, we provide gutter repair and replacement services to address any damage caused by the elements, protecting your home from potential water damage.",
+        "localContext": "Our commitment is to provide Des Plaines residents with top-notch gutter solutions, ensuring their homes are safeguarded against water damage. Our services are designed to address the specific challenges presented by Des Plaines' climate and residential landscape.",
+        "nearbyAreas": [
+          "Park Ridge",
+          "Mount Prospect",
+          "Rosemont"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Chicago Gutter Guards Installation did a fantastic job cleaning my gutters. They were completely clogged with leaves and debris, and now they're flowing perfectly. The team was professional, efficient, and cleaned up everything after they were done. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "I had a leak in one of my gutters after a particularly bad storm. Chicago Gutter Guards Installation came out quickly and repaired the damage. They were honest and upfront about the cost, and the repair seems solid. Good work.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Gutter Guards Installation",
+        "text": "We had gutter guards installed on our home in Lincoln Park, and it's been a game-changer! No more climbing ladders to clean out leaves. The installation was quick and professional. Great investment.",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "Excellent experience from start to finish. The team at Chicago Gutter Guards Installation helped us choose the right gutter system for our house and the installation was flawless. They even took the time to explain the maintenance requirements. Thanks!",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Soffit and Fascia Repair",
+        "text": "They repaired some damaged soffit and fascia on my home. The work was done quickly and professionally. I would use them again.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Ice Dam Prevention",
+        "text": "After last winter's brutal ice dams, I called Chicago Gutter Guards Installation. They installed heating cables and improved my attic insulation. Peace of mind knowing I'm better protected this year.",
+        "date": "2025-02-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Chicago Gutter Installation | Gutter Guards",
+        "description": "Chicago's trusted gutter company. Installation, repair, cleaning & gutter guards. Free quotes. Protect your home today!"
+      },
+      "about": {
+        "title": "About Us | Chicago Gutter Guards Installation",
+        "description": "Learn about Chicago Gutter Guards Installation. Local experts in gutter installation, repair, and maintenance for Chicago homes."
+      },
+      "services": {
+        "title": "Gutter Services | Chicago Gutter Experts",
+        "description": "Comprehensive gutter services in Chicago: installation, repair, cleaning, guards, ice dam prevention. Protect your home!"
+      },
+      "contact": {
+        "title": "Contact Us | Chicago Gutter Guards",
+        "description": "Contact Chicago Gutter Guards Installation for free gutter quotes, service requests, and expert advice. Call us today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Chicago Gutter Guards",
+        "description": "Read reviews for Chicago Gutter Guards Installation. See why our customers trust us for gutter installation, repair, and cleaning."
+      },
+      "service-areas": {
+        "title": "Service Areas | Chicago Gutter Guards",
+        "description": "Chicago Gutter Guards Installation serves the entire Chicago metro area. Find gutter services near you!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guards": "/images/service-gutter-guards.webp",
+      "ice-dam-prevention": "/images/service-ice-dam-prevention.webp",
+      "soffit-fascia-repair": "/images/service-soffit-fascia-repair.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guards": {
+        "src": "/images/service-gutter-guards.webp",
+        "srcset": "/images/service-gutter-guards-400w.webp 400w, /images/service-gutter-guards-800w.webp 800w, /images/service-gutter-guards-1200w.webp 1200w, /images/service-gutter-guards.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ice-dam-prevention": {
+        "src": "/images/service-ice-dam-prevention.webp",
+        "srcset": "/images/service-ice-dam-prevention-400w.webp 400w, /images/service-ice-dam-prevention-800w.webp 800w, /images/service-ice-dam-prevention-1200w.webp 1200w, /images/service-ice-dam-prevention.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia-repair": {
+        "src": "/images/service-soffit-fascia-repair.webp",
+        "srcset": "/images/service-soffit-fascia-repair-400w.webp 400w, /images/service-soffit-fascia-repair-800w.webp 800w, /images/service-soffit-fascia-repair-1200w.webp 1200w, /images/service-soffit-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
